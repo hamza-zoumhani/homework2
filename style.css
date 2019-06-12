@@ -1,12 +1,14 @@
+div {
+    background-color: red;
+}
+
 img {
     border-radius: 100px;
     background-color: red;
     margin-left: 50px;
 }
 
-div {
-    background-color: red;
-}
+
 
 h2 {
     background-color: blue;
@@ -15,10 +17,15 @@ h2 {
 }
 
 h1 {
+    background: url('us.jpg');
     text-align: center;
     color: red;
     font-size: 50px;
     text-shadow: 5px 5px gray;
     font-family: Georgia, serif;
     font-style: italic;
+}
+
+footer {
+    background-color: blue;
 }
