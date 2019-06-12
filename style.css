@@ -1,0 +1,10 @@
+img {
+    transform: rotate(120deg)
+    
+}
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    text-shadow: 20px;
+}
