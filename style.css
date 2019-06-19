@@ -1,14 +1,29 @@
+.bighead {
+    position: static;
+    background: url(http://www.jb.man.ac.uk/astronomy/nightsky/M35.jpg);
+    background-size: 100%;
+    background-
+}
+
 div {
     background-color: red;
 }
 
-img {
-    border-radius: 100px;
+#img1 {
+    border-bottom-right-radius:  200px;
+    border-top-left-radius: 200px;
     background-color: red;
-    margin-left: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
-
+#img2{
+    border-bottom-left-radius:  200px;
+    border-top-right-radius: 200px;
+    background-color: red;
+    margin-left: 25px;
+    margin-right: 25px;
+}
 
 h2 {
     background-color: blue;
