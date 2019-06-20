@@ -45,6 +45,6 @@ footer {
     background-color: blue;
 }
 
-.navbar navbar-dark bg-primary {
-    background-color: blue;
+#nav {
+    background-color: white;
 }
